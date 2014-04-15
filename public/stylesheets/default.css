@@ -264,6 +264,7 @@ html {
   font-size: 62.5%;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
+
 ul{
 	list-style: none;
 	padding: 0;
@@ -307,4 +308,36 @@ body{
 	float: left;
 	width: 100%;
 	margin: 10px 0;
+}
+
+#frmContato{
+  float: left;
+}
+#frmContato fieldset{
+  border: 0;
+}
+#frmContato label{
+  float: left;
+  width: 10%;
+  line-height: 19px;
+  margin: 0 0 10px 0;
+}
+#frmContato ul{
+  float: left;
+  width: 100%;
+}
+#frmContato ul li{
+  float: left;
+  width: 100%;
+  margin: 0 0 10px 0;
+}
+#frmContato input[type="text"]{
+  float: left;
+  width: 90%;
+  height: 35px;
+}
+#frmContato input[type="submit"]{
+  float: right;
+  padding: 10px 20px;
+
 }

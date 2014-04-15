@@ -1,0 +1,98 @@
+connect.multipart() will be removed in connect 3.0
+visit https://github.com/senchalabs/connect/wiki/Connect-3.0 for alternatives
+connect.limit() will be removed in connect 3.0
+Express server listening on port3000
+[90mGET / [32m200 [90m494ms - 3.65kb[0m
+[90mGET /stylesheets/default.css [32m200 [90m20ms - 4.27kb[0m
+[90mGET /empresa [32m200 [90m38ms - 471b[0m
+[90mGET /stylesheets/default.css [36m304 [90m3ms[0m
+[90mGET /empresa [32m200 [90m34ms - 3.59kb[0m
+[90mGET /stylesheets/default.css [32m200 [90m2ms - 4.27kb[0m
+[90mGET /contatos [32m200 [90m30ms - 448b[0m
+[90mGET /stylesheets/default.css [36m304 [90m5ms[0m
+[90mGET /contatos [32m200 [90m22ms - 448b[0m
+[90mGET /stylesheets/default.css [32m200 [90m1ms - 4.27kb[0m
+[90mGET / [32m200 [90m35ms - 529b[0m
+[90mGET /stylesheets/default.css [36m304 [90m3ms[0m
+[90mGET /empresa [36m304 [90m75ms[0m
+[90mGET /stylesheets/default.css [36m304 [90m2ms[0m
+[90mGET /contatos [36m304 [90m14ms[0m
+[90mGET /stylesheets/default.css [36m304 [90m1ms[0m
+[90mGET /empresa [36m304 [90m19ms[0m
+[90mGET /stylesheets/default.css [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m13ms[0m
+[90mGET /stylesheets/default.css [36m304 [90m2ms[0m
+[90mGET /contatos [36m304 [90m14ms[0m
+[90mGET /stylesheets/default.css [36m304 [90m2ms[0m
+[90mGET /contatos [32m200 [90m23ms - 501b[0m
+[90mGET /stylesheets/default.css [32m200 [90m1ms - 4.27kb[0m
+[90mGET /contatos [32m200 [90m32ms - 532b[0m
+[90mGET /stylesheets/default.css [32m200 [90m1ms - 4.27kb[0m
+[90mGET /contatos [32m200 [90m21ms - 534b[0m
+[90mGET /stylesheets/default.css [32m200 [90m2ms - 4.27kb[0m
+[90mGET /contatos [32m200 [90m32ms - 643b[0m
+[90mGET /stylesheets/default.css [32m200 [90m1ms - 4.27kb[0m
+[90mGET /contatos [32m200 [90m38ms - 647b[0m
+[90mGET /stylesheets/default.css [32m200 [90m2ms - 4.27kb[0m
+[90mGET /contatos [32m200 [90m25ms - 651b[0m
+[90mGET /stylesheets/default.css [32m200 [90m1ms - 4.27kb[0m
+[90mGET /contatos [32m200 [90m25ms - 687b[0m
+[90mGET /stylesheets/default.css [32m200 [90m2ms - 4.27kb[0m
+[90mGET /contatos [32m200 [90m24ms - 691b[0m
+[90mGET /stylesheets/default.css [32m200 [90m19ms - 4.27kb[0m
+[90mGET /contatos [32m200 [90m45ms - 721b[0m
+[90mGET /stylesheets/default.css [32m200 [90m1ms - 4.3kb[0m
+[90mGET /contatos [32m200 [90m39ms - 721b[0m
+[90mGET /stylesheets/default.css [32m200 [90m2ms - 4.32kb[0m
+[90mGET /contatos [32m200 [90m45ms - 721b[0m
+[90mGET /stylesheets/default.css [32m200 [90m4ms - 4.32kb[0m
+[90mGET /contatos [32m200 [90m26ms - 721b[0m
+[90mGET /stylesheets/default.css [32m200 [90m1ms - 4.37kb[0m
+[90mGET /contatos [32m200 [90m24ms - 721b[0m
+[90mGET /stylesheets/default.css [32m200 [90m1ms - 4.39kb[0m
+[90mGET /contatos [32m200 [90m25ms - 721b[0m
+[90mGET /stylesheets/default.css [32m200 [90m1ms - 4.41kb[0m
+[90mGET /contatos [32m200 [90m29ms - 721b[0m
+[90mGET /stylesheets/default.css [32m200 [90m2ms - 4.47kb[0m
+[90mGET /contatos [32m200 [90m24ms - 721b[0m
+[90mGET /stylesheets/default.css [32m200 [90m2ms - 4.46kb[0m
+[90mGET /contatos [32m200 [90m25ms - 721b[0m
+[90mGET /stylesheets/default.css [32m200 [90m1ms - 4.47kb[0m
+[90mGET /contatos [32m200 [90m33ms - 754b[0m
+[90mGET /stylesheets/default.css [32m200 [90m1ms - 4.47kb[0m
+[90mGET /contatos [32m200 [90m32ms - 754b[0m
+[90mGET /stylesheets/default.css [32m200 [90m2ms - 4.46kb[0m
+[90mGET /contatos [32m200 [90m30ms - 754b[0m
+[90mGET /stylesheets/default.css [32m200 [90m2ms - 4.5kb[0m
+[90mGET /contatos [32m200 [90m26ms - 754b[0m
+[90mGET /stylesheets/default.css [32m200 [90m1ms - 4.55kb[0m
+[90mGET /contatos [32m200 [90m46ms - 754b[0m
+[90mGET /stylesheets/default.css [32m200 [90m3ms - 4.57kb[0m
+[90mGET /contatos [32m200 [90m25ms - 754b[0m
+[90mGET /stylesheets/default.css [32m200 [90m2ms - 4.58kb[0m
+[90mGET /contatos [32m200 [90m23ms - 754b[0m
+[90mGET /stylesheets/default.css [32m200 [90m3ms - 4.58kb[0m
+[90mGET /contatos [32m200 [90m30ms - 754b[0m
+[90mGET /stylesheets/default.css [32m200 [90m1ms - 4.58kb[0m
+[90mGET /contatos [32m200 [90m46ms - 754b[0m
+[90mGET /stylesheets/default.css [32m200 [90m2ms - 4.6kb[0m
+[90mGET /contatos [32m200 [90m51ms - 754b[0m
+[90mGET /stylesheets/default.css [32m200 [90m1ms - 4.65kb[0m
+[90mGET /contatos [32m200 [90m23ms - 754b[0m
+[90mGET /stylesheets/default.css [32m200 [90m2ms - 4.67kb[0m
+[90mGET /contatos [32m200 [90m22ms - 754b[0m
+[90mGET /stylesheets/default.css [32m200 [90m2ms - 4.67kb[0m
+[90mGET /contatos [32m200 [90m23ms - 754b[0m
+[90mGET /stylesheets/default.css [32m200 [90m2ms - 4.66kb[0m
+[90mGET /contatos [32m200 [90m26ms - 754b[0m
+[90mGET /stylesheets/default.css [32m200 [90m1ms - 4.66kb[0m
+[90mGET /contatos [32m200 [90m22ms - 754b[0m
+[90mGET /stylesheets/default.css [32m200 [90m1ms - 4.66kb[0m
+[90mGET /contatos [32m200 [90m23ms - 754b[0m
+[90mGET /stylesheets/default.css [32m200 [90m3ms - 4.7kb[0m
+[90mGET /empresa [36m304 [90m26ms[0m
+[90mGET /stylesheets/default.css [36m304 [90m1ms[0m
+[90mGET / [36m304 [90m14ms[0m
+[90mGET /stylesheets/default.css [36m304 [90m1ms[0m
+[90mGET /contatos [36m304 [90m26ms[0m
+[90mGET /stylesheets/default.css [36m304 [90m1ms[0m
